@@ -520,10 +520,15 @@
   dependencies:
     glob "10.3.10"
 
-"@next/swc-darwin-arm64@14.2.4":
+"@next/swc-linux-x64-gnu@14.2.4":
   version "14.2.4"
-  resolved "https://registry.npmjs.org/@next/swc-darwin-arm64/-/swc-darwin-arm64-14.2.4.tgz"
-  integrity sha512-AH3mO4JlFUqsYcwFUHb1wAKlebHU/Hv2u2kb1pAuRanDZ7pD/A/KPD98RHZmwsJpdHQwfEc/06mgpSzwrJYnNg==
+  resolved "https://registry.npmjs.org/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-14.2.4.tgz"
+  integrity sha512-ze0ShQDBPCqxLImzw4sCdfnB3lRmN3qGMB2GWDRlq5Wqy4G36pxtNOo2usu/Nm9+V2Rh/QQnrRc2l94kYFXO6Q==
+
+"@next/swc-linux-x64-musl@14.2.4":
+  version "14.2.4"
+  resolved "https://registry.npmjs.org/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-14.2.4.tgz"
+  integrity sha512-8dwC0UJoc6fC7PX70csdaznVMNr16hQrTDAMPvLPloazlcaWfdPogq+UpZX6Drqb1OBlwowz8iG7WR0Tzk/diQ==
 
 "@noble/curves@^1.4.0", "@noble/curves@~1.4.0", "@noble/curves@1.4.0":
   version "1.4.0"
@@ -852,20 +857,19 @@
   resolved "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.11.tgz"
   integrity sha512-ga8y9v9uyeiLdpKddhxYQkxNDrfvuPrlFb0N1qnZZByvcElJaXthF1UhvCh9TLWJBEHeNtdnbysW7Y6Uq8CVng==
 
-"@types/react-dom@^18":
-  version "18.2.18"
-  resolved "https://registry.npmjs.org/@types/react-dom/-/react-dom-18.2.18.tgz"
-  integrity sha512-TJxDm6OfAX2KJWJdMEVTwWke5Sc/E/RlnPGvGfS0W7+6ocy2xhDVQVh/KvC2Uf7kACs+gDytdusDSdWfWkaNzw==
+"@types/react-dom@^18.3.1":
+  version "18.3.1"
+  resolved "https://registry.npmjs.org/@types/react-dom/-/react-dom-18.3.1.tgz"
+  integrity sha512-qW1Mfv8taImTthu4KoXgDfLuk4bydU6Q/TkADnDWWHwi4NX4BR+LWfTp2sVmTqRrsHvyDDTelgelxJ+SsejKKQ==
   dependencies:
     "@types/react" "*"
 
-"@types/react@*", "@types/react@^18", "@types/react@>=16":
-  version "18.2.53"
-  resolved "https://registry.npmjs.org/@types/react/-/react-18.2.53.tgz"
-  integrity sha512-52IHsMDT8qATp9B9zoOyobW8W3/0QhaJQTw1HwRj0UY2yBpCAQ7+S/CqHYQ8niAm3p4ji+rWUQ9UCib0GxQ60w==
+"@types/react@*", "@types/react@^18.3.11", "@types/react@>=16":
+  version "18.3.11"
+  resolved "https://registry.npmjs.org/@types/react/-/react-18.3.11.tgz"
+  integrity sha512-r6QZ069rFTjrEYgFdOck1gK7FLVsgJE7tTz0pQBczlBNUhBNk0MQH4UbnFSwjpQLMkLzgqvBBa+qGpLje16eTQ==
   dependencies:
     "@types/prop-types" "*"
-    "@types/scheduler" "*"
     csstype "^3.0.2"
 
 "@types/responselike@^1.0.0":
@@ -874,11 +878,6 @@
   integrity sha512-H/+L+UkTV33uf49PH5pCAUBVPNj2nDBXTN+qS1dOwyyg24l3CcicicCA7ca+HMvJBZcFgl5r8e+RR6elsb4Lyw==
   dependencies:
     "@types/node" "*"
-
-"@types/scheduler@*":
-  version "0.16.8"
-  resolved "https://registry.npmjs.org/@types/scheduler/-/scheduler-0.16.8.tgz"
-  integrity sha512-WZLiwShhwLRmeV6zH+GkbOFT6Z6VklCItrDioxUnv+u4Ll+8vKeFySoFyK/0ctcRpOmwAicELfmys1sDc/Rw+A==
 
 "@types/webidl-conversions@*":
   version "7.0.3"
