@@ -50,67 +50,13 @@ Welcome to the *Mol IQ - Waste Management* project! This repository contains the
 ## 📚 Materials/References:
 - GitHub Repo (give it a star ⭐): [https://github.com/mendsalbert/zero-t](https://github.com/vishomallaoli/mol-iq-waste-mgmt.git)
 - README (assets & code): [https://github.com/mendsalbert/zero-t](https://github.com/vishomallaoli/mol-iq-waste-mgmt.git)
-
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/moleculeIQ-waste-buster.git
-   cd moleculeIQ-waste-buster
-
-
-Here’s your README in markdown format, incorporating the information about the project:
-
-# MoleculeIQ - Waste Buster
-
-Welcome to the **MoleculeIQ - Waste Buster** project! This repository contains the source code for **Zero2Hero**, an AI-powered waste management platform designed to incentivize and streamline waste reporting and collection. Our goal is to create a community-driven approach to waste management, rewarding users for their eco-friendly actions.
-
-## 🎓 What You'll Learn:
-- **Next.js 14** fundamentals and best practices
-- Full stack development with **Next.js**
-- Integrating **AI** (Google's Gemini AI) into your Next.js app
-- **TypeScript** implementation in Next.js
-- State management with **React hooks**
-- Responsive design using **Tailwind CSS**
-- Authentication with **Web3Auth**
-- Database integration using **Drizzle ORM**
-- Deployment of Next.js projects
-
-## 📚 Project Highlights:
-- **AI-assisted waste verification**
-- **User reward system** for eco-friendly actions
-- Real-time **waste collection task management**
-- Interactive **leaderboard** for community engagement
-
-## 👨‍💻 Step-by-Step Guide:
-1. Setting up a **Next.js 14** project
-2. Creating a responsive layout with **Tailwind CSS**
-3. Implementing **Web3Auth** authentication
-4. Database design and integration with **Drizzle ORM**
-5. **AI model integration** for waste verification
-6. Building interactive UI components (e.g., leaderboard, reward system)
-7. Deploying your **Next.js** application
-
-## ⭐ Key Technologies:
-- **Next.js 14**: [https://nextjs.org/](https://nextjs.org/)
-- **Drizzle ORM**: [https://orm.drizzle.team/](https://orm.drizzle.team/)
-- **TailwindCSS**: [https://tailwindcss.com/](https://tailwindcss.com/)
-- **Google Gemini AI**: [https://ai.google.dev/](https://ai.google.dev/)
-- **Web3Auth**: [https://web3auth.io/](https://web3auth.io/)
-- **Neon Database**: [https://neon.tech/](https://neon.tech/)
-
-## 📚 Materials/References:
-- GitHub Repo (give it a star ⭐): [https://github.com/mendsalbert/zero-t](https://github.com/mendsalbert/zero-t...)
-- README (assets & code): [https://github.com/mendsalbert/zero-t](https://github.com/mendsalbert/zero-t...)
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/moleculeIQ-waste-buster.git
-   cd moleculeIQ-waste-buster
+   git clone https://github.com/vishomallaoli/mol-iq-waste-mgmt
+   cd mol-iq-waste-mgmt
 
 	2.	Install dependencies:
 
@@ -168,5 +114,3 @@ Please make sure to update tests as appropriate.
 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Feel free to customize the links and any other content to fit your repository! Let me know if you need further adjustments.
