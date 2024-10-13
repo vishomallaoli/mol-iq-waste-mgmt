@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Neon_Database-00A6F9?style=flat-square&logo=neon&logoColor=white" alt="Neon Database">
   </a>
 </p>
-Welcome to the **Mol IQ - Waste Management** project! This repository contains the source code for **Zero2Hero**, an AI-powered waste management platform designed to incentivize and streamline waste reporting and collection. Our goal is to create a community-driven approach to waste management, rewarding users for their eco-friendly actions.
+Welcome to the *Mol IQ - Waste Management* project! This repository contains the source code for **Zero2Hero**, an AI-powered waste management platform designed to incentivize and streamline waste reporting and collection. Our goal is to create a community-driven approach to waste management, rewarding users for their eco-friendly actions.
 
 ## 🎓 What You'll Learn:
 - **Next.js 14** fundamentals and best practices
@@ -48,8 +48,8 @@ Welcome to the **Mol IQ - Waste Management** project! This repository contains t
 7. Deploying your **Next.js** application
 
 ## 📚 Materials/References:
-- GitHub Repo (give it a star ⭐): [https://github.com/mendsalbert/zero-t](https://github.com/mendsalbert/zero-t...)
-- README (assets & code): [https://github.com/mendsalbert/zero-t](https://github.com/mendsalbert/zero-t...)
+- GitHub Repo (give it a star ⭐): [https://github.com/mendsalbert/zero-t](https://github.com/vishomallaoli/mol-iq-waste-mgmt.git)
+- README (assets & code): [https://github.com/mendsalbert/zero-t](https://github.com/vishomallaoli/mol-iq-waste-mgmt.git)
 
 ## Installation
 
