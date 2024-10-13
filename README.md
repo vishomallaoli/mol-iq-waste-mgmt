@@ -30,12 +30,26 @@ Welcome to the **MoleculeIQ - Waste Buster** project! This repository contains t
 
 ## ⭐ Key Technologies:
 
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) **Next.js 14**: [https://nextjs.org/](https://nextjs.org/)
-- ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-009688?style=flat-square&logo=drizzle-orm&logoColor=white) **Drizzle ORM**: [https://orm.drizzle.team/](https://orm.drizzle.team/)
-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) **TailwindCSS**: [https://tailwindcss.com/](https://tailwindcss.com/)
-- ![Google Gemini AI](https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white) **Google Gemini AI**: [https://ai.google.dev/](https://ai.google.dev/)
-- ![Web3Auth](https://img.shields.io/badge/Web3Auth-39C1E2?style=flat-square&logo=web3auth&logoColor=white) **Web3Auth**: [https://web3auth.io/](https://web3auth.io/)
-- ![Neon Database](https://img.shields.io/badge/Neon_Database-00A6F9?style=flat-square&logo=neon&logoColor=white) **Neon Database**: [https://neon.tech/](https://neon.tech/)
+<p align="center">
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  </a>
+  <a href="https://orm.drizzle.team/">
+    <img src="https://img.shields.io/badge/Drizzle_ORM-009688?style=flat-square&logo=drizzle-orm&logoColor=white" alt="Drizzle ORM">
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  </a>
+  <a href="https://ai.google.dev/">
+    <img src="https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Gemini AI">
+  </a>
+  <a href="https://web3auth.io/">
+    <img src="https://img.shields.io/badge/Web3Auth-39C1E2?style=flat-square&logo=web3auth&logoColor=white" alt="Web3Auth">
+  </a>
+  <a href="https://neon.tech/">
+    <img src="https://img.shields.io/badge/Neon_Database-00A6F9?style=flat-square&logo=neon&logoColor=white" alt="Neon Database">
+  </a>
+</p>
 
 ## 📚 Materials/References:
 - GitHub Repo (give it a star ⭐): [https://github.com/mendsalbert/zero-t](https://github.com/mendsalbert/zero-t...)
