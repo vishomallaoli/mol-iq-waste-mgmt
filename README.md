@@ -3,13 +3,13 @@
 Welcome to the **MoleculeIQ - Waste Buster** project! This repository contains the source code for **Zero2Hero**, an AI-powered waste management platform designed to incentivize and streamline waste reporting and collection. Our goal is to create a community-driven approach to waste management, rewarding users for their eco-friendly actions.
 
 ## 🎓 What You'll Learn:
-- **Next.js 14** fundamentals and best practices
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) **Next.js 14** fundamentals and best practices
 - Full stack development with **Next.js**
 - Integrating **AI** (Google's Gemini AI) into your Next.js app
-- **TypeScript** implementation in Next.js
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) **TypeScript** implementation in Next.js
 - State management with **React hooks**
-- Responsive design using **Tailwind CSS**
-- Authentication with **Web3Auth**
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) Responsive design using **Tailwind CSS**
+- ![Web3Auth](https://img.shields.io/badge/Web3Auth-39C1E2?style=flat-square&logo=web3auth&logoColor=white) Authentication with **Web3Auth**
 - Database integration using **Drizzle ORM**
 - Deployment of Next.js projects
 
@@ -29,12 +29,13 @@ Welcome to the **MoleculeIQ - Waste Buster** project! This repository contains t
 7. Deploying your **Next.js** application
 
 ## ⭐ Key Technologies:
-- **Next.js 14**: [https://nextjs.org/](https://nextjs.org/)
-- **Drizzle ORM**: [https://orm.drizzle.team/](https://orm.drizzle.team/)
-- **TailwindCSS**: [https://tailwindcss.com/](https://tailwindcss.com/)
-- **Google Gemini AI**: [https://ai.google.dev/](https://ai.google.dev/)
-- **Web3Auth**: [https://web3auth.io/](https://web3auth.io/)
-- **Neon Database**: [https://neon.tech/](https://neon.tech/)
+
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) **Next.js 14**: [https://nextjs.org/](https://nextjs.org/)
+- ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-009688?style=flat-square&logo=drizzle-orm&logoColor=white) **Drizzle ORM**: [https://orm.drizzle.team/](https://orm.drizzle.team/)
+- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) **TailwindCSS**: [https://tailwindcss.com/](https://tailwindcss.com/)
+- ![Google Gemini AI](https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white) **Google Gemini AI**: [https://ai.google.dev/](https://ai.google.dev/)
+- ![Web3Auth](https://img.shields.io/badge/Web3Auth-39C1E2?style=flat-square&logo=web3auth&logoColor=white) **Web3Auth**: [https://web3auth.io/](https://web3auth.io/)
+- ![Neon Database](https://img.shields.io/badge/Neon_Database-00A6F9?style=flat-square&logo=neon&logoColor=white) **Neon Database**: [https://neon.tech/](https://neon.tech/)
 
 ## 📚 Materials/References:
 - GitHub Repo (give it a star ⭐): [https://github.com/mendsalbert/zero-t](https://github.com/mendsalbert/zero-t...)
@@ -47,62 +48,3 @@ Welcome to the **MoleculeIQ - Waste Buster** project! This repository contains t
    ```bash
    git clone https://github.com/yourusername/moleculeIQ-waste-buster.git
    cd moleculeIQ-waste-buster
-
-	2.	Install dependencies:
-
-npm install
-
-
-	3.	Set up environment variables:
-Create a .env.local file in the root of the project and add the following variables:
-
-NEXT_PUBLIC_WEB3AUTH_CLIENT_ID=your_web3auth_client_id
-FIREBASE_API_KEY=your_firebase_api_key
-FIREBASE_AUTH_DOMAIN=your_firebase_auth_domain
-FIREBASE_PROJECT_ID=your_firebase_project_id
-
-
-	4.	Start the development server:
-
-npm run dev
-
-
-	5.	Visit http://localhost:3000 in your browser to view the app.
-
-Deployment
-
-To deploy the project, follow these steps:
-
-	1.	Build the project:
-
-npm run build
-
-
-	2.	Deploy on Vercel:
-	•	If you haven’t already, sign up for Vercel and link your GitHub repository.
-	•	Configure environment variables on Vercel to match your .env.local.
-	•	Deploy your app with just one click or using the Vercel CLI:
-
-vercel --prod
-
-
-
-Your app should now be live at https://your-app-name.vercel.app.
-
-Contributing
-
-We welcome contributions! Here’s how you can help:
-
-	1.	Fork the repository.
-	2.	Create a feature branch (git checkout -b feature-branch).
-	3.	Commit your changes (git commit -m "Add a feature").
-	4.	Push to the branch (git push origin feature-branch).
-	5.	Open a pull request.
-
-Please make sure to update tests as appropriate.
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Feel free to customize the links and any other content to fit your repository! Let me know if you need further adjustments.
